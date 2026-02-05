@@ -1,0 +1,13 @@
+# Target labels
+ sci
+# Source files and their labels
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci-complete.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-build.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-configure.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-download.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-install.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-mkdir.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-patch.rule
+/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-update.rule

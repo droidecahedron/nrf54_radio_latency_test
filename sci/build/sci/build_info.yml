@@ -1,0 +1,56 @@
+cmake:
+  application:
+    configuration-dir: '/home/nrf-ddhd/nrf/nrf54_radio_test/sci'
+    source-dir: '/home/nrf-ddhd/nrf/nrf54_radio_test/sci'
+  board:
+    name: 'nrf54l15dk'
+    path:
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/boards/nordic/nrf54l15dk'
+    qualifiers: 'nrf54l15/cpuapp'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/dts/bindings'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/bindings'
+    files:
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/boards/nordic/nrf54l15dk/nrf54l15dk_nrf54l15_cpuapp.dts'
+     - '/home/nrf-ddhd/nrf/nrf54_radio_test/sci/nrf54l15dk_nrf54l15_cpuapp.overlay'
+    include-dirs:
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/include'
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/dts/common'
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/dts/riscv'
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/dts/arm'
+     - '/home/nrf-ddhd/ncs/v3.2.1/nrf/dts'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/include'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/include/zephyr'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/common'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/vendor'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/rx'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/x86'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/xtensa'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/sparc'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/riscv'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/posix'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/arm64'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/arm'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts/arc'
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/dts'
+    user-files:
+     - '/home/nrf-ddhd/nrf/nrf54_radio_test/sci/nrf54l15dk_nrf54l15_cpuapp.overlay'
+  kconfig:
+    files:
+     - '/home/nrf-ddhd/ncs/v3.2.1/zephyr/boards/nordic/nrf54l15dk/nrf54l15dk_nrf54l15_cpuapp_defconfig'
+     - '/home/nrf-ddhd/nrf/nrf54_radio_test/sci/prj.conf'
+     - '/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/sci/zephyr/.config.sysbuild'
+    user-files:
+     - '/home/nrf-ddhd/nrf/nrf54_radio_test/sci/prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: '/home/nrf-ddhd/ncs/toolchains/43683a87ea/opt/zephyr-sdk'
+  vendor-specific:
+    nordic:
+      svdfile: '/home/nrf-ddhd/ncs/v3.2.1/modules/hal/nordic/nrfx/bsp/stable/mdk/nrf54l15_application.svd'
+  zephyr:
+    version: '4.2.99'
+    zephyr-base: '/home/nrf-ddhd/ncs/v3.2.1/zephyr'
+version: '0.1.0'

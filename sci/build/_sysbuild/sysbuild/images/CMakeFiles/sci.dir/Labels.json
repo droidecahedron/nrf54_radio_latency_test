@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/CMakeFiles/sci-complete.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-build.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-configure.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-download.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-install.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-mkdir.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-patch.rule"
+		},
+		{
+			"file" : "/home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/_sysbuild/sysbuild/images/sci-prefix/src/sci-stamp/sci-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sci"
+		],
+		"name" : "sci"
+	}
+}

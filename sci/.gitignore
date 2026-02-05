@@ -1,0 +1,8 @@
+# editors
+*.swp
+*~
+
+# build
+sci/build*/
+esb/ptx/build*/
+esb/prx/build*/

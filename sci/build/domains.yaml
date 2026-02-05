@@ -1,0 +1,7 @@
+default: sci
+build_dir: /home/nrf-ddhd/nrf/nrf54_radio_test/sci/build
+domains:
+  - name: sci
+    build_dir: /home/nrf-ddhd/nrf/nrf54_radio_test/sci/build/sci
+flash_order:
+  - sci

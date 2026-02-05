@@ -1,0 +1,19 @@
+// / {
+//     radio_activity_pin: radio-activity-pin {
+//         compatible = "nordic,gpio-pins";
+//         gpios = <&gpio1 11 GPIO_ACTIVE_HIGH>;  /* P1.11 */
+//         status = "okay";
+//     };
+// };
+
+// &gpio0 {
+//     status = "okay";
+// };
+
+&gpio1 {
+    status = "okay";
+};
+
+&gpiote20 {
+    status = "okay";
+};
